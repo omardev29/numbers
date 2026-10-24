@@ -1,0 +1,3 @@
+A collection of formulas for numbers in c++
+you might need make in order to a simpler compilation
+And if so you have it, you only need to type make in one of the directories in src/
